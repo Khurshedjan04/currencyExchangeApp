@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Quantico:ital,wght@0,400;0,700;1,400;1,700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+@import "tailwindcss";
+@keyframes blink {
+  0% { transform: translateY(4px); }
+  50% { transform: translateY(-4px); }
+  100% { transform: translateY(4px); }
+}
+.animation1 {
+  animation: blink 1.4s infinite;
+}
+.animation2 {
+  animation: blink 1.4s infinite .3s;
+}
+.animation3 {
+  animation: blink 1.4s infinite .5s;
+}
