@@ -1,7 +1,7 @@
 # Currency Converter 💱
 ### A simple and responsive currency converter built with React, Tailwind CSS, and the ExchangeRate-API. Users can select different currencies and get real-time exchange rates.
 
-🚀 Features
+🚀 Features:
 
 ✅ Live exchange rate conversion using ExchangeRate-API
 
@@ -16,30 +16,40 @@
 ✅ Loading animation when fetching data
 
 
-🛠️ Technologies Used
+🛠️ Technologies Used:
+
 React (Vite for fast builds ⚡)
+
 Tailwind CSS (for styling 🎨)
+
 ExchangeRate-API (for real-time rates 🌍)
 
 
-📌 Usage
+📌 Usage:
+
 Enter an amount
+
 Choose the "From" and "To" currencies
+
 See the converted value instantly!
+
 Switch currencies with one click 🔄
 
 
-📝 Future Improvements
+📝 Future Improvements:
+
 🔹 Add historical exchange rate charts 📊
+
 🔹 Support more APIs for accuracy 🌍
+
 🔹 Implement dark mode 🌙
 
 
-📄 License
+📄 License: 
 This project is MIT Licensed. Feel free to use and modify it!
 
 
-💡 Contributing
+💡 Contributing: 
 Got an idea? Open an issue or submit a pull request! 🚀
 
 
